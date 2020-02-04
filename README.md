@@ -1,2 +1,2 @@
-# HeunsMethod
-Implementation of Improved Euler (Heun's Method) for MatLab
+# MatLab
+MatLab projects for MATH 315
